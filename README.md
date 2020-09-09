@@ -1,4 +1,4 @@
-# Network Security
+# Machine Learning Lessons
 
 ## Contributing
 
@@ -7,8 +7,7 @@ Use a PR to edit existing or add new lessons.
 ## Maintainer(s)
 
 * Rajesh Kalyanam
-* Craig Willis
-* Xiang Liu
+* Mike Lambert
 
 ## Authors
 
